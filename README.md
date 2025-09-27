@@ -19,9 +19,6 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 - **Database:** Room
 - **UI:** Material Components + ViewBinding
 
-## 📷 Screenshots
-(Add your app screenshots here)
-
 ## 🔑 API Key Setup
 1. Get a free API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).  
 2. Add your key to `local.properties` (not committed to GitHub):
